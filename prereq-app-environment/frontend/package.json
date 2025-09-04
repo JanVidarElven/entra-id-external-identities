@@ -4,6 +4,7 @@
     "description": "Identities SPA Web App for Entra ID Protected Web API with Azure Functions",
     "main": "index.html",
     "scripts": {
-      "start": "npx serve"
+  "start": "npx serve",
+  "build": "echo No build step necessary"
     }
   }
